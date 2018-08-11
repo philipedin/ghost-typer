@@ -1,2 +1,2 @@
 # Ghost Typer
-A React-library for simulating human text input
+A React component for simulating human text input
